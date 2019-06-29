@@ -1,0 +1,1 @@
+This is a local file, "local2.txt", used to be upload in the test.
